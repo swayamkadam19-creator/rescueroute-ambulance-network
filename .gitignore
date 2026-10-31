@@ -1,0 +1,10 @@
+*.exe
+*.o
+*.obj
+*.log
+__pycache__/
+.DS_Store
+__MACOSX/
+ambulance_dashboard
+checks/server_check.cpp
+checks/results.json
